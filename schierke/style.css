@@ -5,7 +5,7 @@ h1{
     padding-left: 10px;
 }
 body {
-    background-color: violet;
+    background-color: #6C6F7D;
     margin: 0%;
 }
 header.cabeca {
@@ -30,7 +30,7 @@ main.basico p {
 
 main.basico ul {
     columns: 2;
-    background-color: blueviolet;
+    background-color: rgb(192, 190, 190);
     border-radius: 5px;
     padding: -10px;
     margin: -5px;
@@ -38,35 +38,39 @@ main.basico ul {
 
 header {
     padding-top: 5px;
-    background-color: rgb(202, 107, 202);
+    background-color: #2E3138;
     box-shadow: 2px  2px 2px rgba(43, 43, 43, 0.295);
 }
 
 nav {
-    background-color: rgba(121, 31, 121, 0.685);
+    background-color: #6c6f7d;
+    
 }
 a {
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding-right: 10px;
     padding-left: 10px;
+    transition-duration: 1s;
 }
 
 a:hover {
     color: rgba(39, 39, 39, 0.932);
     text-decoration: underline;
+    background-color: grey;
+    
     
 }
 
 footer {
     margin: auto;
-    background-color: rgba(102, 17, 102, 0.685);
+    background-color: #61646e;
     text-align: center;
-    padding: 5px;
+    padding: 2px;
 }
 
 h3 {
-    background-color: rgb(65, 4, 122);
-    color: white;
+    background-color: grey;
+    color: rgb(0, 0, 0);
     padding-left: 10px;
 }
