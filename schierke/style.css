@@ -38,6 +38,7 @@ main.basico ul {
 
 header {
     padding-top: 5px;
+    color: white;
     background-color: #2E3138;
     box-shadow: 2px  2px 2px rgba(43, 43, 43, 0.295);
 }
@@ -73,4 +74,5 @@ h3 {
     background-color: grey;
     color: rgb(0, 0, 0);
     padding-left: 10px;
+    border-radius: 5px;
 }
